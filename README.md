@@ -2,7 +2,7 @@
 A prototype of an application that provides machine-learning backed information and interactive simulation to support the United States public health officials in developing an effective and well-informed vaccine deployment strategy
 
 # Report
-The entire paper can be be found in WIL - Final Report - Group10.pdf
+The entire paper can be found in <link>https://github.com/nischaybikramthapa/Identifying-Potential-Clusters-for-COVID-19-Vaccination-in-U.S./blob/main/WIL%20-%20Final%20Report%20-%20Group10.pdf </link> WIL - Final Report - Group10.pdf
 
 #Video
 
